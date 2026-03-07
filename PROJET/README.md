@@ -1,4 +1,6 @@
-﻿# TP ADK - Assistant de revision (Quiz ou Fiche) avec Mistral
+Romain FRANCHI
+ 
+ # TP ADK - Assistant de revision (Quiz ou Fiche) avec Mistral
 
 Projet Google ADK en local, avec un routage simple:
 - demander un quiz -> generation d'un quiz de 3 questions
